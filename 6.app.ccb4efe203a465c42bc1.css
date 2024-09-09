@@ -1,0 +1,11 @@
+
+.tr .container .page--main.page--left--hidden {
+    margin-left: 0;
+}
+.tr .container .page--main.page--left--hidden .page--content .feed--list {
+    width: 724px;
+}
+.tr .container .page--main.page--left--hidden .empty {
+    width: 100%;
+}
+
